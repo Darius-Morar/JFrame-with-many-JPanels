@@ -2,13 +2,6 @@ import javax.swing.*;
 import javax.swing.border.Border;
 import java.awt.*;
 
-/**
- * Our Universe.
- * This is a collage of student's panel creations
- *
- * @author Javier Gonzalez-Sanchez
- * @version 2022.05.25
- */
 public class Universe extends JFrame {
 
 	/**
